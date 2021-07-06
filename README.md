@@ -1,1 +1,1 @@
-# HUGO
+# HGNC Nomenlature
